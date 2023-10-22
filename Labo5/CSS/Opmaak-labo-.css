@@ -1,0 +1,35 @@
+/* Opmaak voor alle hoofdingen */
+.arial-heading {
+    font-family: Arial, sans-serif;
+}
+
+h1.arial-heading {
+    font-size: 1.8em;
+}
+
+h2.arial-heading {
+    font-size: 1.5em;
+}
+
+h3.arial-heading {
+    font-size: 1.4em;
+}
+
+/* Opmaak voor paragrafen */
+p {
+    font-family: 'Times New Roman', serif;
+    font-size: 1.2em;
+}
+
+/* Tekstkleuren voor de paragrafen */
+.red-text {
+    color: red;
+}
+
+.green-text {
+    color: green;
+}
+
+.blue-text {
+    color: blue;
+}

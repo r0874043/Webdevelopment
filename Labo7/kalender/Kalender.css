@@ -1,0 +1,43 @@
+body{
+    width: 500px;
+    margin:0 auto ;
+}
+table {
+    border: 3px solid ;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: black;
+}
+
+
+th {
+    background-color: rgb(170,170,200);
+}
+
+thead > tr > td {
+    color: rgb(200,190,240) ;
+    background-color: rgb(35,37,70);
+}
+
+tbody > tr > .volgendemaand {
+    background-color: lavenderblush !important;
+}
+
+tbody > tr td:first-child {
+    background-color: darkcyan;
+}
+
+tbody > tr td:last-child {
+    background-color: darkcyan;
+}
+.FreeDay {
+    background-color: rgb(250,120,120);
+}
+
+

@@ -110,13 +110,14 @@ footer{
     background-color: white;
     border-radius: 5px;
     border-style: dot-dot-dash;
+    display: inline-block;
 }
 
 figure{
-    display: grid;
+    display: block;
     background-color: #999999;
-    grid-template-columns: repeat(3, 1fr);
     gap: 10px;
     margin: 20px 0 0;
     padding:20px
+
 }

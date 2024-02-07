@@ -1,0 +1,21 @@
+body{
+    margin: 0 auto;
+    width: 95%;
+}
+article{
+    border: 1px solid black;
+    font-family: Verdana ,sans-serif;
+    font-size: 1.25em;
+    display: inline-block;
+}
+article > p > img  {
+    margin: 10px;
+}
+.right{
+    float: right;
+    margin: 10px;
+}
+.left{
+    float: left;
+    margin: 10px;
+}
